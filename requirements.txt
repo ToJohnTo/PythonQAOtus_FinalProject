@@ -2,4 +2,4 @@ robotframework==3.2.1
 robotframework-seleniumlibrary==4.5.0
 robotframework-allurereport==1.1.1
 allure-robotframework==2.8.18
-allure-pytest==2.7.0
+pytest-allure-adaptor==1.7.10
