@@ -11,5 +11,5 @@ allure serve ./Allure-reports/
 
 
 hh.ru \
-login: otus_final_project@mail.ru
+login: otus_final_project@mail.ru \
 pass: Otus25082020
