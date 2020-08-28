@@ -4,12 +4,12 @@ __pycache__/
 *$py.class
 .idea/
 chromedriver
+cm
+admin_cookie
+logs/
 
 # Allure reports
-Allure-reports/
-
-# Test logs
-Results/
+Allure_report/
 
 # C extensions
 *.so
